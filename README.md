@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ### 📫 How to reach me: ...
 My contact details, incl. E-Mail, are available on [BBAW website](https://www.bbaw.de/die-akademie/mitarbeiterinnen-mitarbeiter/hamster-ulf).
 Drop me an E-Mail if you are interested to collaborate (e.g., write a thesis or paper, just coding for fun, etc.).
+Or just open an issue in any repository, you are interested in.
 
 ### 👯 I’m looking to collaborate on ...
 

@@ -36,9 +36,10 @@ Drop me an E-Mail if you are interested to collaborate (e.g., write a thesis or 
 
 ### 🔭 I’m currently working on ...
 
-**Sparsity**
+**Sparse Matrices Operations**
 - *sparsity-pattern* : Generate different types of sparsity pattern for sparse matrices;
   see [pypi](https://pypi.org/project/sparsity-pattern)
+- *keras-spconn* : Experimental keras classes with sparse matrices (instead of dense matrices or pruned methods) and dynamic sparsity training routines; *code under development*
 
 **General Neural Network stuff**
 - *Batch Correlation Regularizer* for ResNet skip-connections; *code publication in progress*

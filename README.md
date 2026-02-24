@@ -1,5 +1,5 @@
-
-
+## Recently
+- [mas-inquiry](https://github.com/ulf1/mas-inquiry) - AI coding on autopilot vs Human (me)
 
 ## Software packages for the Evidence project (2020-2023)
 The DFG project "Evidence" ([433249742](https://gepris.dfg.de/gepris/projekt/433249742)) ran from 2020 till Jul. 2023 at [BBAW](https://www.bbaw.de/). The following software packages are maintained by [@ulf1](https://github.com/ulf1) without compensations since Aug. 2023.

@@ -4,6 +4,7 @@
 - [mas-inquiry](https://github.com/ulf1/mas-inquiry) - Multi-agent system to dissect a human inquiry (see [here](https://github.com/ulf1/mas-inquiry/blob/main/.agent/skills/inquiry_bot/SKILL.md))
 
 ### Nocode Vibe Coding Apps
+All first shots, no further dev planned:
 - [Prompt Mastermind](https://studio--studio-6780315578-30416.us-central1.hosted.app/) - the app generates an ai  image, and the user must guess the prompt that created the image.
 - [The Glitch Hunter](https://studio--studio-8148573502-74cf7.us-central1.hosted.app/) - copy paste your code snippet, and the LLM will check and comment your code in Gen Z slang.
 

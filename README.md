@@ -1,5 +1,10 @@
 ## Recently
-- [mas-inquiry](https://github.com/ulf1/mas-inquiry) - AI coding on autopilot vs Human (me)
+- [mas-inquiry](https://github.com/ulf1/mas-inquiry) - AI coding on autopilot vs Human
+
+### Nocode Vibe Coding Apps
+- [Prompt Mastermind](https://studio--studio-6780315578-30416.us-central1.hosted.app/) - the app generates an ai  image, and the user must guess the prompt that created the image.
+- [The Glitch Hunter](https://studio--studio-8148573502-74cf7.us-central1.hosted.app/) - copy paste your code snippet, and the LLM will check and comment your code in Gen Z slang.
+
 
 ## Software packages for the Evidence project (2020-2023)
 The DFG project "Evidence" ([433249742](https://gepris.dfg.de/gepris/projekt/433249742)) ran from 2020 till Jul. 2023 at [BBAW](https://www.bbaw.de/). The following software packages are maintained by [@ulf1](https://github.com/ulf1) without compensations since Aug. 2023.

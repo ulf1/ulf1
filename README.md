@@ -1,7 +1,7 @@
 ## Recently
 
 ### Agent systems
-- [mas-inquiry](https://github.com/ulf1/mas-inquiry) - Multi-agent system to dissect a human inquiry (see [here](https://github.com/ulf1/mas-inquiry/blob/main/.agent/skills/inquiry_bot/SKILL.md))
+- [mas-inquiry](https://github.com/ulf1/mas-inquiry) - Multi-agent system to dissect a human inquiry (see [here](https://github.com/ulf1/mas-inquiry/blob/main/.agents/skills/inquiry_bot/SKILL.md))
 
 ### Nocode Vibe Coding Apps
 All first shots, no further dev planned. Basically the 2026 version of ui mock-up generation. 

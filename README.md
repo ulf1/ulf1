@@ -3,7 +3,7 @@
 ### Agent systems
 - [mas-inquiry](https://github.com/ulf1/mas-inquiry) - Multi-agent system to dissect a human inquiry (see [here](https://github.com/ulf1/mas-inquiry/blob/main/.agents/skills/inquiry_bot/SKILL.md))
 
-## RAG apps
+### RAG apps
 - [streamlit-rag-biblio](https://github.com/ulf1/streamlit-rag-biblio) - streamlit chats with langgraph (Mistral, AcademicCloud). literature files are indexed as RAG. pyinstaller for MacOS and Win Desktop apps.
 
 ### Nocode Vibe Coding Apps

@@ -11,6 +11,11 @@ All first shots, no further dev planned. Basically the 2026 version of ui mock-u
 - [Prompt Mastermind](https://studio--studio-6780315578-30416.us-central1.hosted.app/) - the app generates an ai  image, and the user must guess the prompt that created the image.
 - [The Glitch Hunter](https://studio--studio-8148573502-74cf7.us-central1.hosted.app/) - copy paste your code snippet, and the LLM will check and comment your code in Gen Z slang.
 
+## Sparse Connectivity
+
+- [keras-spconn](https://github.com/ulf1/keras-spconn) (not published as pypi) - uses `tf.GradientTape` to implement Dynamic Sparsity as outer training loop [[sprg](https://github.com/ulf1/keras-spconn/blob/main/keras_spconn/sprg.py)]
+- [10.31219/osf.io/bgkpv](https://doi.org/10.31219/osf.io/bgkpv) - HCNN implementation with Dynamic Sparsity (a HCNN is an extremly wide an extremly sparse RNN without input matrix; only few RNN states are observable)
+- Note: In general state- or neuron-level sparsity does't parallize well with GPU; it might more appropriate for CPU based architectures
 
 ## Software packages for the Evidence project (2020-2023)
 The DFG project "Evidence" ([433249742](https://gepris.dfg.de/gepris/projekt/433249742)) ran from 2020 till Jul. 2023 at [BBAW](https://www.bbaw.de/). The following software packages are maintained by [@ulf1](https://github.com/ulf1) without compensations since Aug. 2023.

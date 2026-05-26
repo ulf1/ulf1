@@ -1,10 +1,8 @@
 ## Recently
 
-### Agent systems
-- [mas-inquiry](https://github.com/ulf1/mas-inquiry) - Multi-agent system to dissect a human inquiry (see [here](https://github.com/ulf1/mas-inquiry/blob/main/.agents/skills/inquiry_bot/SKILL.md))
-
-### RAG apps
-- [streamlit-rag-biblio](https://github.com/ulf1/streamlit-rag-biblio) - streamlit chats with langgraph (Mistral, AcademicCloud). literature files are indexed as RAG. pyinstaller for MacOS and Win Desktop apps.
+- Markov Regime Switching - [trading-regime](https://github.com/ulf1/trading-regime) - Training parallized with PyTorch; daily GCP Cloud Run workflow for data caching, ticker exploration and model recalibration ([docs](https://github.com/ulf1/trading-regime/tree/main/docs), [dashboard](https://showresults-service-6gmepoiioa-ew.a.run.app/))
+- Chain-of-Thought (CoT) Backend - [mas-inquiry](https://github.com/ulf1/mas-inquiry) - Multi-agent system to dissect a human inquiry with langgraph and smaller Gemini Flash Lite models ([docs](https://github.com/ulf1/mas-inquiry/tree/main/docs))
+- RAG Desktop App - [streamlit-rag-biblio](https://github.com/ulf1/streamlit-rag-biblio) - streamlit chats with langgraph (Mistral, AcademicCloud). literature files are indexed as RAG. pyinstaller for MacOS and Win Desktop apps.
 
 ### Nocode Vibe Coding Apps
 All first shots, no further dev planned. Basically the 2026 version of ui mock-up generation. 

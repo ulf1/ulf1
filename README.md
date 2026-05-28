@@ -1,8 +1,8 @@
 ## Recently
 
-- Markov Regime Switching - [trading-regime](https://github.com/ulf1/trading-regime) - terraform deployment, daily GCP Cloud Run workflow for data caching, ticker exploration and model recalibration parallelized with PyTorch ([docs](https://github.com/ulf1/trading-regime/tree/main/docs) / [skill](https://github.com/ulf1/trading-regime/blob/main/.agent/skills/899_pytorch_hamiliton/SKILL.md) / [dashboard](https://showresults-service-6gmepoiioa-ew.a.run.app/))
-- Chain-of-Thought (CoT) - [mas-inquiry](https://github.com/ulf1/mas-inquiry) - Multi-agent system to dissect a human inquiry with langgraph and smaller Gemini Flash Lite models ([docs](https://github.com/ulf1/mas-inquiry/tree/main/docs))
-- RAG Desktop App - [streamlit-rag-biblio](https://github.com/ulf1/streamlit-rag-biblio) - streamlit chats with langgraph (Mistral, AcademicCloud). literature files are indexed as RAG. pyinstaller for MacOS and Win Desktop apps.
+- [trading-regime](https://github.com/ulf1/trading-regime) - Markov Regime Switching - terraform deployment, daily GCP Cloud Run workflow for data caching, ticker exploration and model recalibration parallelized with PyTorch ([docs](https://github.com/ulf1/trading-regime/tree/main/docs) / [skill](https://github.com/ulf1/trading-regime/blob/main/.agent/skills/899_pytorch_hamiliton/SKILL.md) / [dashboard](https://showresults-service-6gmepoiioa-ew.a.run.app/))
+- [mas-inquiry](https://github.com/ulf1/mas-inquiry) - Chain-of-Thought (CoT) - Multi-agent system to dissect a human inquiry with langgraph and smaller Gemini Flash Lite models ([docs](https://github.com/ulf1/mas-inquiry/tree/main/docs))
+- [streamlit-rag-biblio](https://github.com/ulf1/streamlit-rag-biblio) - RAG Desktop App - streamlit chats with langgraph (Mistral, AcademicCloud). literature files are indexed as RAG. pyinstaller for MacOS and Win Desktop apps.
 
 Nocode Vibe Coding Apps. All first shots, no further dev planned. Basically the 2026 version of ui mock-up generation. 
 - [Prompt Mastermind](https://studio--studio-6780315578-30416.us-central1.hosted.app/) - the app generates an ai  image, and the user must guess the prompt that created the image.
